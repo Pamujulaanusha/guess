@@ -1,0 +1,22 @@
+body{
+    background-color:darkgoldenrod;
+}
+fieldset{
+    width: 60%;
+    height: 50%;
+    margin: auto;
+    margin-top: 10%;
+    background-color:darkseagreen;
+    color: white;
+}
+h1{
+    color: yellow;
+}
+h3{
+    display: inline;
+}
+#result{
+    width: fit-content;
+    height: fit-content;
+    color:red;
+}
